@@ -1,0 +1,27 @@
+#navBar {
+    padding-top: 0;
+}
+
+#divBar {
+    background-color : #ffffff;
+    margin-top: 0;
+    padding-top: 0;
+}
+
+#navName {
+    background-color: #4aaaa5;
+    color: #ffffff;
+}
+
+#navLinks {
+    margin-left: 500px;
+}
+
+.container {
+    width:  960px;
+    background-color: #ffffff;
+}
+
+body{
+    background-color:  #777777;
+}
